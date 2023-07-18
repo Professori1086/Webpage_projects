@@ -1,0 +1,12 @@
+div.flex-container {
+	display: flex;
+	width: 100vw ;
+	min-height: 50vh;
+	margin: auto;
+}
+
+div.flex-container-child {
+	float: left;
+	width: 50%;
+	margin: auto;
+}
